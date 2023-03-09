@@ -1,2 +1,2 @@
-# Interncrowd_intWBFJDern_task3
-calculator
+# Calculator
+Very basic calculator application created by Java Swing.
